@@ -1,0 +1,12 @@
+node_modules/
+out/
+.vscode/
+.env
+.gitignore
+.vscodeignore
+*.ps1
+*.sh
+*.txt
+*.zip
+package-lock.json
+target.code-workspace
