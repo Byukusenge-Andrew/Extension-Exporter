@@ -3,8 +3,8 @@
   "displayName": "Extension Exporter",
   "description": "Export all installed extensions to a file with installation scripts for any IDE.",
   "version": "0.0.1",
-  "publisher": "byukusenge-andrew",
-  "author": "Antigravity User",
+  "publisher": "Byukusenge-Andrew",
+  "author": "Drefault",
   "license": "MIT",
   "icon": "icon.png",
   "keywords": [

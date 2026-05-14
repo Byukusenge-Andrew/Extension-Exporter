@@ -10,3 +10,10 @@ out/
 *.zip
 package-lock.json
 target.code-workspace
+connect
+init
+logs
+mcp
+reset
+restart
+status
